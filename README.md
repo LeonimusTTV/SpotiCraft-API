@@ -3,6 +3,7 @@ This is the API used by [SpotiCraft](https://github.com/LeonimusTTV/SpotiCraft)
 
 ## What's that ?
 This API is used by [SpotiCraft](https://github.com/LeonimusTTV/SpotiCraft) to be able to get an access_token by giving a code to the Spotify API and refresh the said access_token when expired
+(It's really basic, don't expect much)
 
 ## How to use ?
 Install [NodeJS](https://nodejs.org/en/download)\
